@@ -1,0 +1,6 @@
+{
+  "name": "GovMart",
+  "description": "A high-fidelity modern React conversion of GovMart - a transparent government procurement marketplace demo containing searchable products, live tenders, step-by-step guides, active support desks, and multi-role registration forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
